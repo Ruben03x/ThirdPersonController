@@ -1,13 +1,23 @@
 # ThirdPersonController
-Third person controller made in Unity with walking, running, sprinting, collisions and more
 
-Made with inspiration from Sebastian Graves: https://www.youtube.com/watch?v=gdp-O6z8x28&list=PLD_vBJjpCwJsqpD8QRPNPMfVUpPFLVGg4
+A comprehensive third-person controller developed in Unity, encompassing a range of dynamic movements and functionalities.
 
-Features:
-1.) Unity's new input system (WASD, Gamepad compatible)
-2.) Fully functional player movement
-3.) Movement animation (maximo animation source) and can be easily swapped out
-4.) Fully functional 3rd person follow camera with customizable public sliders
-5.) Sprinting/Running/Walking
-6.) Falling/Landing/Jumping/Dodging
-7.) Raycast modified for stairs/slopes
+**Inspiration**: [Sebastian Graves YouTube Tutorial](https://www.youtube.com/watch?v=gdp-O6z8x28&list=PLD_vBJjpCwJsqpD8QRPNPMfVUpPFLVGg4)
+
+## Features:
+
+- **Input System**: Leveraging Unity's new input system. Compatible with both WASD keys and gamepads.
+- **Player Movement**: Fully functional and dynamic player movement mechanism.
+- **Animations**: Incorporated animations from the Maximo animation source. These can be conveniently replaced if desired.
+- **Camera**: Robust third-person follow camera. Offers customizable public sliders for an enhanced user experience.
+- **Movement Modes**: Supports a variety of movement types including:
+  - Walking
+  - Running
+  - Sprinting
+- **Advanced Movements**: Incorporates functionalities like:
+  - Falling
+  - Landing
+  - Jumping
+  - Dodging
+- **Terrain Adjustments**: Raycast has been adapted to function smoothly over stairs and slopes.
+
